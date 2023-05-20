@@ -18,9 +18,6 @@
     <ClCompile Include="3_in_line.cpp">
       <Filter>Исходные файлы</Filter>
     </ClCompile>
-    <ClCompile Include="Bonus.cpp">
-      <Filter>Файлы ресурсов</Filter>
-    </ClCompile>
     <ClCompile Include="Fruits.cpp">
       <Filter>Файлы ресурсов</Filter>
     </ClCompile>

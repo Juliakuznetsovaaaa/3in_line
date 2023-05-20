@@ -128,7 +128,6 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="3_in_line.cpp" />
-    <ClCompile Include="Bonus.cpp" />
     <ClCompile Include="Fruits.cpp" />
     <ClCompile Include="main.cpp" />
     <ClCompile Include="Source.cpp" />

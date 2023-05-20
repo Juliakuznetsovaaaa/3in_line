@@ -1,8 +1,5 @@
 #pragma once
-
 #include "Fruits.hpp"
-#include "Source.cpp"
-#include "Fruits.cpp"
 
 class Bonus {
 public:
